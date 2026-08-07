@@ -15,22 +15,65 @@
 
 <h3><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" width="24" height="24" alt="Next.js"> Next.js</h3>
 
-| Project | Description | Tech |
-| :-- | :-- | :-- |
-| [**Mail Configuration Checker**](https://github.com/git-yuji/mail-checker-app) | ドメインを入力するだけで、MX・SPF・DMARCをまとめて確認できるWebアプリ。診断結果を分かりやすいカード形式で表示します。 | Next.js / TypeScript / Tailwind CSS / Cloudflare |
-| [**Tech Notes**](https://github.com/git-yuji/TechNotes) | 学習内容、設定手順、トラブル対応をMarkdownとGitで管理・公開する技術ノート。 | Next.js / TypeScript / Cloudflare Workers |
+<table width="100%">
+  <thead>
+    <tr>
+      <th width="20%" align="left">Project</th>
+      <th width="55%" align="left">Description</th>
+      <th width="25%" align="left">Tech</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href="https://github.com/git-yuji/mail-checker-app"><strong>Mail Configuration Checker</strong></a></td>
+      <td>ドメインを入力するだけで、MX・SPF・DMARCをまとめて確認できるWebアプリ。診断結果を分かりやすいカード形式で表示します。</td>
+      <td>Next.js / TypeScript / Tailwind CSS / Cloudflare</td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/git-yuji/TechNotes"><strong>Tech Notes</strong></a></td>
+      <td>学習内容、設定手順、トラブル対応をMarkdownとGitで管理・公開する技術ノート。</td>
+      <td>Next.js / TypeScript / Cloudflare Workers</td>
+    </tr>
+  </tbody>
+</table>
 
 <h3><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/astro/astro-original.svg" width="24" height="24" alt="Astro"> Astro</h3>
 
-| Project | Description | Tech |
-| :-- | :-- | :-- |
-| [**YUYU WEB**](https://github.com/git-yuji/main-site) | 制作したサービスへの入口となるポータルサイト。 | Astro / Tailwind CSS / Three.js / Cloudflare |
+<table width="100%">
+  <thead>
+    <tr>
+      <th width="20%" align="left">Project</th>
+      <th width="55%" align="left">Description</th>
+      <th width="25%" align="left">Tech</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href="https://github.com/git-yuji/main-site"><strong>YUYU WEB</strong></a></td>
+      <td>制作したサービスへの入口となるポータルサイト。</td>
+      <td>Astro / Tailwind CSS / Three.js / Cloudflare</td>
+    </tr>
+  </tbody>
+</table>
 
 <h3><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" width="24" height="24" alt="PHP"> PHP</h3>
 
-| Project | Description | Tech |
-| :-- | :-- | :-- |
-| [**Mini Todo**](https://github.com/git-yuji/php-simple-todo) | フレームワークやデータベースを使わずに動く、シンプルなToDo管理アプリ。 | PHP 8.1+ / HTML / CSS |
+<table width="100%">
+  <thead>
+    <tr>
+      <th width="20%" align="left">Project</th>
+      <th width="55%" align="left">Description</th>
+      <th width="25%" align="left">Tech</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href="https://github.com/git-yuji/php-simple-todo"><strong>Mini Todo</strong></a></td>
+      <td>フレームワークやデータベースを使わずに動く、シンプルなToDo管理アプリ。</td>
+      <td>PHP 8.1+ / HTML / CSS</td>
+    </tr>
+  </tbody>
+</table>
 
 ## 📈 Commit Activity
 
