@@ -13,20 +13,20 @@
 
 ## 📌 Featured Projects
 
-### Next.js
+<h3><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" width="24" height="24" alt="Next.js"> Next.js</h3>
 
 | Project | Description | Tech |
 | :-- | :-- | :-- |
 | [**Mail Configuration Checker**](https://github.com/git-yuji/mail-checker-app) | ドメインを入力するだけで、MX・SPF・DMARCをまとめて確認できるWebアプリ。診断結果を分かりやすいカード形式で表示します。 | Next.js / TypeScript / Tailwind CSS / Cloudflare |
 | [**Tech Notes**](https://github.com/git-yuji/TechNotes) | 学習内容、設定手順、トラブル対応をMarkdownとGitで管理・公開する技術ノート。 | Next.js / TypeScript / Cloudflare Workers |
 
-### Astro
+<h3><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/astro/astro-original.svg" width="24" height="24" alt="Astro"> Astro</h3>
 
 | Project | Description | Tech |
 | :-- | :-- | :-- |
 | [**YUYU WEB**](https://github.com/git-yuji/main-site) | 制作したサービスへの入口となるポータルサイト。 | Astro / Tailwind CSS / Three.js / Cloudflare |
 
-### PHP
+<h3><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" width="24" height="24" alt="PHP"> PHP</h3>
 
 | Project | Description | Tech |
 | :-- | :-- | :-- |
