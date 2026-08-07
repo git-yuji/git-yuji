@@ -13,11 +13,23 @@
 
 ## 📌 Featured Projects
 
+### Next.js
+
 | Project | Description | Tech |
 | :-- | :-- | :-- |
 | [**Mail Configuration Checker**](https://github.com/git-yuji/mail-checker-app) | ドメインを入力するだけで、MX・SPF・DMARCをまとめて確認できるWebアプリ。診断結果を分かりやすいカード形式で表示します。 | Next.js / TypeScript / Tailwind CSS / Cloudflare |
 | [**Tech Notes**](https://github.com/git-yuji/TechNotes) | 学習内容、設定手順、トラブル対応をMarkdownとGitで管理・公開する技術ノート。 | Next.js / TypeScript / Cloudflare Workers |
+
+### Astro
+
+| Project | Description | Tech |
+| :-- | :-- | :-- |
 | [**YUYU WEB**](https://github.com/git-yuji/main-site) | 制作したサービスへの入口となるポータルサイト。 | Astro / Tailwind CSS / Three.js / Cloudflare |
+
+### PHP
+
+| Project | Description | Tech |
+| :-- | :-- | :-- |
 | [**Mini Todo**](https://github.com/git-yuji/php-simple-todo) | フレームワークやデータベースを使わずに動く、シンプルなToDo管理アプリ。 | PHP 8.1+ / HTML / CSS |
 
 ## 📈 Commit Activity
