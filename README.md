@@ -56,6 +56,25 @@
   </tbody>
 </table>
 
+<h3><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" width="24" height="24" alt="TypeScript"> TypeScript</h3>
+
+<table width="100%">
+  <thead>
+    <tr>
+      <th width="20%" align="left">Project</th>
+      <th width="55%" align="left">Description</th>
+      <th width="25%" align="left">Tech</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href="https://github.com/git-yuji/typescript-simple-todo"><strong>TypeScript Simple Todo</strong></a></td>
+      <td>型定義やDOM操作、配列処理をTypeScriptで学ぶ、シンプルなToDo管理アプリ。</td>
+      <td>TypeScript / Vite / HTML / CSS</td>
+    </tr>
+  </tbody>
+</table>
+
 <h3><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" width="24" height="24" alt="PHP"> PHP</h3>
 
 <table width="100%">
