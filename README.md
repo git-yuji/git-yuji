@@ -72,6 +72,11 @@
       <td>型定義やDOM操作、配列処理をTypeScriptで学ぶ、シンプルなToDo管理アプリ。</td>
       <td>TypeScript / Vite / HTML / CSS</td>
     </tr>
+    <tr>
+      <td><a href="https://github.com/git-yuji/typescript-site-checker"><strong>TypeScript Site Checker</strong></a></td>
+      <td>Webサイトの公開前チェック機能を作りながら、型設計やDOM操作、非同期処理を段階的に学ぶプロジェクト。</td>
+      <td>TypeScript / Vite / HTML / CSS</td>
+    </tr>
   </tbody>
 </table>
 
