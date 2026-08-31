@@ -94,7 +94,7 @@
     <tr>
       <td><a href="https://github.com/git-yuji/php-simple-todo"><strong>Mini Todo</strong></a></td>
       <td>フレームワークやデータベースを使わずに動く、シンプルなToDo管理アプリ。</td>
-      <td>PHP 8.1+ / HTML / CSS</td>
+      <td>PHP / HTML / CSS</td>
     </tr>
     <tr>
       <td><a href="https://github.com/git-yuji/php-bookmarks"><strong>My Bookmarks</strong></a></td>
