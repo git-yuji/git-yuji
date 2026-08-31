@@ -104,10 +104,12 @@
   </tbody>
 </table>
 
-## 📈 Commit Activity
+## 📊 GitHub Stats
 
 <div align="center">
 
-[![git-yuji's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=git-yuji&theme=github-compact&hide_border=true&area=true)](https://github.com/git-yuji)
+<a href="https://github.com/git-yuji">
+  <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=git-yuji&amp;theme=github" alt="git-yuji's GitHub profile summary">
+</a>
 
 </div>
