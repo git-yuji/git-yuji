@@ -37,6 +37,25 @@
   </tbody>
 </table>
 
+<h3><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="24" height="24" alt="React"> React</h3>
+
+<table width="100%">
+  <thead>
+    <tr>
+      <th width="20%" align="left">Project</th>
+      <th width="55%" align="left">Description</th>
+      <th width="25%" align="left">Tech</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href="https://github.com/git-yuji/react-simple-todo"><strong>React Simple Todo</strong></a></td>
+      <td>Todoの追加・完了切り替え・削除を通じて、Reactの状態管理やイベント処理、TypeScriptの型定義を学ぶシンプルなToDo管理アプリ。</td>
+      <td>React / TypeScript / Vite / CSS</td>
+    </tr>
+  </tbody>
+</table>
+
 <h3><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/astro/astro-original.svg" width="24" height="24" alt="Astro"> Astro</h3>
 
 <table width="100%">
