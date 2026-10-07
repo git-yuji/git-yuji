@@ -111,7 +111,7 @@
   </thead>
   <tbody>
     <tr>
-      <td><a href="https://github.com/git-yuji/laravel-project-manager"><strong>案件・修正依頼管理</strong></a></td>
+      <td><a href="https://github.com/git-yuji/laravel-project-manager"><strong>Laravel Project Manager</strong></a></td>
       <td>Web制作の案件と修正依頼をまとめて管理するアプリ。案件の登録、修正依頼の追加、対応状況の変更を通じて、認証・入力検証・アクセス制御・DB操作を学ぶプロジェクト。</td>
       <td>PHP / Laravel / Blade / SQLite / CSS / PHPUnit</td>
     </tr>
