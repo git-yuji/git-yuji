@@ -99,6 +99,25 @@
   </tbody>
 </table>
 
+<h3><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" width="24" height="24" alt="Laravel"> Laravel</h3>
+
+<table width="100%">
+  <thead>
+    <tr>
+      <th width="20%" align="left">Project</th>
+      <th width="55%" align="left">Description</th>
+      <th width="25%" align="left">Tech</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href="https://github.com/git-yuji/laravel-project-manager"><strong>案件・修正依頼管理</strong></a></td>
+      <td>Web制作の案件と修正依頼をまとめて管理するアプリ。案件の登録、修正依頼の追加、対応状況の変更を通じて、認証・入力検証・アクセス制御・DB操作を学ぶプロジェクト。</td>
+      <td>PHP / Laravel / Blade / SQLite / CSS / PHPUnit</td>
+    </tr>
+  </tbody>
+</table>
+
 <h3><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" width="24" height="24" alt="PHP"> PHP</h3>
 
 <table width="100%">
